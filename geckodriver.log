@@ -1,0 +1,185 @@
+1640679768710	geckodriver	INFO	Listening on 127.0.0.1:58371
+1640679768714	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48011" "-no-remote" "-profile" "/tmp/rust_mozprofileMa4PO8"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640679769535	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMa4PO8/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:48011/devtools/browser/0bcd7ff7-bb72-4248-b6ca-3812b1d365b5
+1640679770663	Marionette	INFO	Listening on port 38369
+1640679770735	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.web.sapo.io/sapovideo/sv/20210809R1/js/js/all-v1.js, line 28846: unreachable code after return statement
+JavaScript error: https://assets.web.sapo.io/sapovideo/sv/20210809R1/js/js/all-v1.js, line 1157: Error: NETWORK_ERR
+makeError@https://assets.web.sapo.io/sapovideo/sv/20210809R1/js/js/all-v1.js:1157:21
+runStateChange@https://assets.web.sapo.io/sapovideo/sv/20210809R1/js/js/all-v1.js:922:59
+bind/<@https://assets.web.sapo.io/sapovideo/sv/20210809R1/js/js/all-v1.js:367:27
+
+JavaScript warning: https://assets.web.sapo.io/sapovideo/sv/20210809R1/js/js/all-v1.js, line 28846: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: http://js.sapo.pt/Projects/SAPOPlayer/latest/SapoPlayer.js?v=i20210809R1, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.web.sapo.io/sapovideo/sv/20210809R1/js/js/all-v1.js, line 28846: unreachable code after return statement
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://assets.web.sapo.io/sapovideo/sv/20210809R1/css/ink.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://assets.web.sapo.io/sapovideo/sv/20210809R1/css/sapo.min.css without a browsingContextID set
+1640679841873	geckodriver	INFO	Listening on 127.0.0.1:51803
+1640679841875	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35501" "-no-remote" "-profile" "/tmp/rust_mozprofile5g6gE1"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640679842696	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5g6gE1/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35501/devtools/browser/0c4a12b7-b375-48d7-9376-6e87e723fecc
+1640679843610	Marionette	INFO	Listening on port 38717
+1640679843691	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.web.sapo.io/sapovideo/sv/20210809R1/js/js/all-v1.js, line 28846: unreachable code after return statement
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://assets.web.sapo.io/sapovideo/sv/20210809R1/css/ink.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://assets.web.sapo.io/sapovideo/sv/20210809R1/css/sapo.min.css without a browsingContextID set
+1640679888353	geckodriver	INFO	Listening on 127.0.0.1:44735
+1640679888356	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59481" "-no-remote" "-profile" "/tmp/rust_mozprofileaAkq6T"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640679889140	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileaAkq6T/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59481/devtools/browser/0384a1e1-a91b-46b7-8340-428486f03186
+1640679890056	Marionette	INFO	Listening on port 45783
+1640679890078	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.web.sapo.io/sapovideo/sv/20210809R1/js/js/all-v1.js, line 28846: unreachable code after return statement
+JavaScript error: https://assets.web.sapo.io/sapovideo/sv/20210809R1/js/js/all-v1.js, line 1157: Error: NETWORK_ERR
+makeError@https://assets.web.sapo.io/sapovideo/sv/20210809R1/js/js/all-v1.js:1157:21
+runStateChange@https://assets.web.sapo.io/sapovideo/sv/20210809R1/js/js/all-v1.js:922:59
+bind/<@https://assets.web.sapo.io/sapovideo/sv/20210809R1/js/js/all-v1.js:367:27
+
+JavaScript warning: https://assets.web.sapo.io/sapovideo/sv/20210809R1/js/js/all-v1.js, line 28846: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: http://js.sapo.pt/Projects/SAPOPlayer/latest/SapoPlayer.js?v=i20210809R1, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.web.sapo.io/sapovideo/sv/20210809R1/js/js/all-v1.js, line 28846: unreachable code after return statement
+1640679914731	geckodriver	INFO	Listening on 127.0.0.1:54877
+1640679914734	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49653" "-no-remote" "-profile" "/tmp/rust_mozprofileWSxzzv"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640679915512	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWSxzzv/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49653/devtools/browser/42792f1e-5d6a-4328-a867-48ac203bcb56
+1640679916390	Marionette	INFO	Listening on port 46207
+1640679916451	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.web.sapo.io/sapovideo/sv/20210809R1/js/js/all-v1.js, line 28846: unreachable code after return statement
+1640680121573	geckodriver	INFO	Listening on 127.0.0.1:33289
+1640680121575	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59345" "-no-remote" "-profile" "/tmp/rust_mozprofileVZV7ry"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640680122341	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVZV7ry/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59345/devtools/browser/843c6b6e-0892-4a96-a911-9fc0d941d6d6
+1640680123294	Marionette	INFO	Listening on port 43325
+1640680123392	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.web.sapo.io/sapovideo/sv/20210809R1/js/js/all-v1.js, line 28846: unreachable code after return statement
+1640680266811	geckodriver	INFO	Listening on 127.0.0.1:57917
+1640680266815	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52653" "-no-remote" "-profile" "/tmp/rust_mozprofileSVALHP"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640680267617	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSVALHP/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52653/devtools/browser/7489f624-5d71-42b9-9a57-f4a5f2dc3681
+1640680268610	Marionette	INFO	Listening on port 44669
+1640680268630	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.web.sapo.io/sapovideo/sv/20210809R1/js/js/all-v1.js, line 28846: unreachable code after return statement
+1640680958298	geckodriver	INFO	Listening on 127.0.0.1:40779
+1640680958304	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51661" "-no-remote" "-profile" "/tmp/rust_mozprofile5j5WiS"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640680959100	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5j5WiS/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51661/devtools/browser/5ac77a1e-81b5-42e4-a96a-a056693b694e
+1640680960254	Marionette	INFO	Listening on port 45275
+1640680960806	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640680972643	geckodriver	INFO	Listening on 127.0.0.1:49171
+1640680972646	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50061" "-no-remote" "-profile" "/tmp/rust_mozprofileER6GA9"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640680973423	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileER6GA9/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50061/devtools/browser/499a2877-7e62-4e8f-bafc-fe25978a850f
+1640680974393	Marionette	INFO	Listening on port 38927
+1640680974462	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.web.sapo.io/sapovideo/sv/20210809R1/js/js/all-v1.js, line 28846: unreachable code after return statement
+1640680990805	Marionette	INFO	Stopped listening on port 38927
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640681085185	geckodriver	INFO	Listening on 127.0.0.1:55711
+1640681085188	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57675" "-no-remote" "-profile" "/tmp/rust_mozprofile7b7drG"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640681085982	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7b7drG/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57675/devtools/browser/a5726d23-2667-4568-a9de-52c4c225808e
+1640681086979	Marionette	INFO	Listening on port 42891
+1640681087003	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.web.sapo.io/sapovideo/sv/20210809R1/js/js/all-v1.js, line 28846: unreachable code after return statement
+1640681102904	Marionette	INFO	Stopped listening on port 42891
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640681122054	geckodriver	INFO	Listening on 127.0.0.1:37283
+1640681122056	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40049" "-no-remote" "-profile" "/tmp/rust_mozprofilelxWCrp"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640681122856	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelxWCrp/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40049/devtools/browser/078fdf48-ce4b-4ec3-b1a8-daf4724e345f
+1640681123866	Marionette	INFO	Listening on port 42499
+1640681123981	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.web.sapo.io/sapovideo/sv/20210809R1/js/js/all-v1.js, line 28846: unreachable code after return statement
+1640681140386	Marionette	INFO	Stopped listening on port 42499
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640681194486	geckodriver	INFO	Listening on 127.0.0.1:40993
+1640681194489	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47177" "-no-remote" "-profile" "/tmp/rust_mozprofilengvUqF"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640681195263	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilengvUqF/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47177/devtools/browser/1139fd9c-3f09-4953-94d0-bc3253e89cac
+1640681196217	Marionette	INFO	Listening on port 34591
+1640681196304	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.web.sapo.io/sapovideo/sv/20210809R1/js/js/all-v1.js, line 28846: unreachable code after return statement
+1640681212863	Marionette	INFO	Stopped listening on port 34591
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640683052768	geckodriver	INFO	Listening on 127.0.0.1:43513
+1640683052771	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45325" "-no-remote" "-profile" "/tmp/rust_mozprofiledUMKf2"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640683053532	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledUMKf2/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45325/devtools/browser/7df0220e-481e-4cd4-83dd-76c4712d5e06
+1640683054382	Marionette	INFO	Listening on port 36413
+1640683054487	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.web.sapo.io/sapovideo/sv/20210809R1/js/js/all-v1.js, line 28846: unreachable code after return statement
+1640683071962	Marionette	INFO	Stopped listening on port 36413
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
